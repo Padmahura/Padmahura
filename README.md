@@ -1,5 +1,5 @@
 # Padmavathi D
-**Silicon Validation Engineer | Embedded Systems Developer | Bare metal Firmware enthusiast**
+**Silicon Validation Engineer | Embedded Systems Developer | Bare metal Firmware enthusiast  | Hardware Architect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/padmavathi-d-355b7797/)
 [![GitHub Followers](https://img.shields.io/github/followers/Padmahura?style=social)](https://github.com/Padmahura)
@@ -8,20 +8,22 @@
 Hello! I am Padmavathi, a passionate Silicon Validation Engineer with experience in embedded systems development. I specialize in:
 - **Silicon Validation and Testing**
 - **Embedded Systems Programming (C, Python, LabVIEW)**
+- **SoC Architecture**
 - **ARM Architecture (ARMv7-A, ARM Cortex-M)**
 - **Interface Protocols (I2C, SPI, UART, etc.)**
 
-I have a strong foundation in hardware and software co-design, and I enjoy working on projects that bring together low-level programming and high-performance system testing.
+I have a strong foundation and a balanced work experience in hardware and software co-design, and I enjoy working on projects that bring together low-level programming and high-performance system level testing.
 
 ## 🛠️ Skills & Technologies
-- **Programming Languages:** Embedded C, Python, LabVIEW
+- **Programming Languages:** Embedded C, Python, LabVIEW, Tcl , Perl
 - **Microcontroller Architectures:** ARM Cortex (M-series, A-series), AVR
-- **Interface Protocols:** UART, I2C, SPI, CAN
+- **Interfaces & Protocols:** UART, I2C, SPI, CAN, USB 3.1 Gen1/Gen2/Type C/PD, USB 2.0, Ethernet (L1 and L2 Layer), Precision Time Protocol (1588V2 PTP), QSGMII/Q-USGMII, MacSec, Redundancy protocols like HSR,  TSN , PCIe, eMMC, UART, RS232, RS485
 - **Tools & Platforms:** 
   - **Silicon Validation:** Experience with lab instruments and automated test setups
   - **Embedded Development:** Keil, MPLAB, STM32CubeIDE
   - **Scripting & Automation:** Python scripting for automation and data processing
-  - **PCB Design & VLSI Testing:** Altium
+  - **PCB Design & VLSI Testing:** Altium Designer, Orcad, Viewmate, Cadence Allegro Viewer, PADS Layout Viewer, SolidWorks 
+
 
 ## 📚 Learning & Interests
 - **Ethernet Switches/Phys:** Exploring switch concepts and network protocols from beginner to expert level.
